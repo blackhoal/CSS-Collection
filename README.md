@@ -2,3 +2,4 @@
 2. [Select Menu](https://www.youtube.com/watch?v=uFIl4BvYne0)
 3. [Keyboard Keys](https://github.com/blackhoal/CSS-Collection/tree/main/211216)
 4. [Responsive Navbar](https://www.youtube.com/watch?v=Az_TbiPAyDs)
+5. [Card Hover Effects](https://www.youtube.com/watch?v=60v3PKVjM2Q)
