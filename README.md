@@ -5,3 +5,4 @@
 5. [Card Hover Effects](https://www.youtube.com/watch?v=60v3PKVjM2Q)  
 6. [Animation Effect](https://www.youtube.com/watch?v=qta2QuYdMxk)
 7. [Responsive Services Section](https://www.youtube.com/watch?v=hgy8kQ_LUps)
+8. [Animation Effects](https://www.youtube.com/watch?v=pqny8c69LUY)
