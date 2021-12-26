@@ -6,4 +6,4 @@
 6. [Animation Effect](https://www.youtube.com/watch?v=qta2QuYdMxk)
 7. [Responsive Services Section](https://www.youtube.com/watch?v=hgy8kQ_LUps)
 8. [Animation Effects](https://www.youtube.com/watch?v=pqny8c69LUY)
-9. []()
+9. [User Card Design](https://www.youtube.com/watch?v=JhVMAzrvdos)
